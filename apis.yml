@@ -1,4 +1,5 @@
 aid: edwards-lifesciences
+name: "Edwards Lifesciences"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
