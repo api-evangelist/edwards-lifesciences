@@ -1,7 +1,9 @@
 ---
 title: Edwards Lifesciences in artificial intelligence
 url: https://www.medicaldevice-network.com/data-insights/edwards-lifesciences-in-artificial-intelligence-theme-innovation-strategy/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edwards Lifesciences" press release artificial intelligence'
 position: 4
 source: serpapi-google

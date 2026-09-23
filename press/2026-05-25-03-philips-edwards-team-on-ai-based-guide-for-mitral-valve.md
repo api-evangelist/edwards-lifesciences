@@ -1,7 +1,9 @@
 ---
 title: Philips, Edwards team on AI-based guide for mitral valve ...
 url: https://www.medtechdive.com/news/Philips-Edwards-Lifesciences-AI-mitral-valve-repair-collaboration/805912/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Edwards Lifesciences" press release artificial intelligence'
 position: 3
 source: serpapi-google
