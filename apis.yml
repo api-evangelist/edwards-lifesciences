@@ -39,3 +39,10 @@ description: >-
   Edwards Lifesciences is a global leader in patient-focused innovations for structural
   heart disease and critical care monitoring, providing transcatheter and surgical
   heart valves, hemodynamic monitoring, and critical care products.
+x-lifecycle:
+  state: shuttered
+  reason: domain-does-not-resolve
+  observed: '2026-09-27'
+  detail: >-
+    The company's own domain returned no A or AAAA record when probed. This is an observation about the domain, not a request from the company.
+  indexed: false
